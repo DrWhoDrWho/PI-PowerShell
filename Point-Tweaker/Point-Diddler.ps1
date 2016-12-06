@@ -30,8 +30,10 @@ Additional restrictions:
 <#
 Change Log
 
-Version 0.8 2016-10-10
-Version 0.9 2016-11-23 improve output format
+Version 0.80 2016-10-10
+Version 0.90 2016-11-23 improve output format
+Version 0.91 2016-12-05 Reorganize into multi-line quick-help comments
+Version 0.92 2016-12-05 add license
 #>
 param (
     [Parameter(Position=0, Mandatory=$false)]
